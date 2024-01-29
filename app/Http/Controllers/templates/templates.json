@@ -1,0 +1,94 @@
+{
+    "templates": {
+        "template1": {
+            "subject": "Welcome to Our Newsletter",
+            "body": "Dear {{name}}, Thank you for subscribing to our newsletter. We're excited to keep you updated on the latest news and offers! Sincerely, The Newsletter Team",
+            "cta": {
+                "name": "Read More",
+                "url": "https://example.com"
+            },
+            "attachments": []
+        },
+        "template2": {
+            "subject": "New Product Announcement",
+            "body": "Hi {{name}}, We're thrilled to announce the launch of our latest product - {{product_name}}! Check it out now and let us know what you think. Best regards, The Product Team",
+            "cta": {
+                "name": "View Product",
+                "url": "https://example.com/product/{{product_id}}"
+            },
+            "attachments": []
+        },
+        "template3": {
+            "subject": "Reminder: Upcoming Event",
+            "body": "Hello {{name}}, Just a friendly reminder that the {{event_name}} is happening soon. Don't forget to mark your calendar and join us for an exciting event! Regards, The Events Team",
+            "cta": {
+                "name": "View Details",
+                "url": "https://example.com/events/{{event_id}}"
+            },
+            "attachments": []
+        },
+        "template4": {
+            "subject": "Thank You for Your Purchase",
+            "body": "Dear {{name}}, Thank you for your recent purchase. We hope you enjoy your new {{product_name}}. If you have any questions or feedback, feel free to contact us. Best regards, The Customer Support Team",
+            "cta": {
+                "name": "View Details",
+                "url": "https://example.com/events/{{event_id}}"
+            },
+            "attachments": []
+        },
+        "template5": {
+            "subject": "Account Activation",
+            "body": "Hi {{name}}, Your account has been successfully activated. Welcome aboard! Get started by logging in and exploring our platform. Best regards, The Support Team",
+            "cta": {
+                "name": "View Details",
+                "url": "https://example.com/events/{{event_id}}"
+            },
+            "attachments": []
+        },
+        "template6": {
+            "subject": "Feedback Request",
+            "body": "Hello {{name}}, We value your opinion! Please take a moment to provide feedback on your recent experience with us. Your input helps us improve our services. Thank you, The Feedback Team",
+            "cta": {
+                "name": "View Details",
+                "url": "https://example.com/events/{{event_id}}"
+            },
+            "attachments": []
+        },
+        "template7": {
+            "subject": "Important Announcement",
+            "body": "Dear {{name}}, We have an important announcement to share with you. Please read the attached document for details. Best regards, The Management Team",
+            "cta": {
+                "name": "View Details",
+                "url": "https://example.com/events/{{event_id}}"
+            },
+            "attachments": []
+        },
+        "template8": {
+            "subject": "Holiday Greetings",
+            "body": "Hi {{name}}, Wishing you and your loved ones a joyful holiday season and a happy new year! Warm regards, The Holiday Team",
+            "cta": {
+                "name": "View Details",
+                "url": "https://example.com/events/{{event_id}}"
+            },
+            "attachments": []
+        },
+        "template9": {
+            "subject": "Account Password Reset",
+            "body": "Hello {{name}}, We received a request to reset your account password. If you did not initiate this request, please disregard this email. Otherwise, click the link below to reset your password. Reset Password: Reset Link Regards, The Security Team",
+            "cta": {
+                "name": "View Details",
+                "url": "https://example.com/events/{{event_id}}"
+            },
+            "attachments": []
+        },
+        "template10": {
+            "subject": "Invitation to Join Our Community",
+            "body": "Hi {{name}}, You're invited to join our community of {{community_type}} enthusiasts. Connect with like-minded individuals and stay updated on upcoming events and discussions. Join Now: Join Community Best regards, The Community Team",
+            "cta": {
+                "name": "View Details",
+                "url": "https://example.com/events/{{event_id}}"
+            },
+            "attachments": []
+        }
+    }
+}
